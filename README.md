@@ -1,1 +1,1 @@
-# Self Improvment Application
+# Self Improvement Application
