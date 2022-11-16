@@ -145,6 +145,13 @@ Visit The Live Website: [Personal Growth and Stress Management Web Application](
 
 ### Frameworks, Libraries and Programs
 
+    - Django 3.2 (Long Term Support)
+    - [Gunicorn]
+    - PostgreSQL:
+        - Django Database 
+        - Elephant SQL 
+        - Psycopg2
+    - [Cloudinary](https://cloudinary.com/)
     - [Balsamic] for creating wireframes.
     - [Google Fonts] for importing fonts.
     - [favicon.io] for generating favicon.
