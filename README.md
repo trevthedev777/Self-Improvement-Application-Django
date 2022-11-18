@@ -93,6 +93,31 @@ In a world where social media and technology can be detrimental to our mental he
 
 - As a **Business**, I want to **sned out mailers** so that we can **engage with our users in ways to improve their user experiences**
 
+### Scope
+
+The project has been prepared in 3 main phases of release, the first being for evaluation of the project through **Code Institute** and then V2 and V3 for future collaboration and feature implementation, depending on the success of the app, maintenance after the release of V3 will remain uncertain.
+
+#### First Release
+
+- Account Registration 
+- User Authentication
+- Crete, edit and delete profile
+- Create, edit and delete journal entries
+- Like, comment on journal entries
+
+#### Second Release 
+
+- Ability to personalize Profile
+- Social media sign up
+- Add daily tasks and goals
+- Add push notifications
+
+#### Third Release
+
+- Ability to add other users
+- Add handles for user profiles
+- Add locations of nearest high rated help centres
+
 <!-- Insert back to table contents link -->
 [Table of Content](#table-of-content)
 
@@ -104,11 +129,20 @@ In a world where social media and technology can be detrimental to our mental he
 
 ### User Stories
 
-    1. As a user I want....
-    2.
-    3.
-    4.
-    5.
+GitHub projects was used for the management of the project, as due to the delay of my start, The process occured over a 10 day agile process which every every 3 days was a benchmark on the progression of the project
+
+![User Stories Start of Project]()
+
+![User Stories First Cycle]()
+
+![User Stories Second Cycle]()
+
+![User Stories Final Cycle]()
+
+### Structure
+
+![Flow Diagram](https://github.com/trevthedev777/Personal-Growth-App---PP4/blob/master/assets/readme_imgs/Design%20Images/Flow%20Diagram/Flow%20Diagram.png?raw=true)
+
 
 ### Fonts
 
@@ -140,9 +174,6 @@ In a world where social media and technology can be detrimental to our mental he
 -   Journal
     ![Journal](https://github.com/trevthedev777/Personal-Growth-App---PP4/blob/master/assets/readme_imgs/Design%20Images/Wireframes/Journal%20.png?raw=true)
 
-### Flow Diagram
-
-![Flow Diagram](https://github.com/trevthedev777/Personal-Growth-App---PP4/blob/master/assets/readme_imgs/Design%20Images/Flow%20Diagram/Flow%20Diagram.png?raw=true)
 
 <!-- Insert back to table contents link -->
 
