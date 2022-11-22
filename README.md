@@ -79,7 +79,7 @@ In a world where social media and technology can be detrimental to our mental he
 
  - As a **User**, I want **to use the features of the site easily** so that I can **I can get to using the application sooner than later**
 
- - As a **User**, I want **journal my day** so that I can **I can view if my mental heaalth is improving or declining**
+ - As a **User**, I want **journal my day** so that I can **I can view if my mental health is improving or declining**
 
  - As a **User**, I want **be able to Edit or Delete my journal** so that I can **Correct any mistakes or add something that I might have forgotten**
 
